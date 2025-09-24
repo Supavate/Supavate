@@ -31,9 +31,13 @@
 - Object-Oriented Design • Database design & normalization • Design Patterns 
 
 ---
+<<<<<<< HEAD
 
 <img src="https://leetcode-badge-showcase.vercel.app/api?username=Supavate&theme=transparent" alt="LeetCode Badges" />
 
+=======
+<img src="https://leetcode-badge-showcase.vercel.app/api?username=Supavate&theme=transparent" alt="LeetCode Badges" />
+>>>>>>> 489e4069b6bc4e5341efd7b16e8a7dbb1f1e96ab
 ---
 
 ## 📫 Contact Me
