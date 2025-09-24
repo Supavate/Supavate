@@ -37,8 +37,8 @@
 ---
 
 ## 📫 Contact Me
-- 📧 Email: [supavate@gmail.com]  
-- 💼 LinkedIn: [linkedin.com/in/supavate-kittisares-7aa557b8](https://www.linkedin.com/in/supavate-kittisares-7aa557b8/)  
+- 📧 Email: [supavate@gmail.com](supavate@gmail.com)
+- 💼 LinkedIn: [linkedin.com/in/supavate](https://www.linkedin.com/in/supavate-kittisares-7aa557b8/)  
 
 ---
 
