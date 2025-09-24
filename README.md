@@ -1,34 +1,53 @@
 # 👋 Hi, I'm Supavate
 
-🚀 **Backend-Focused Computer Science Student**  
-📍 Passionate about building scalable systems, clean APIs, and robust databases  
-💡 Always exploring new backend frameworks, dev tools, and architectural patterns  
+🚀 **Backend-Oriented Computer Science Graduate**\
+📍 Focused on building **scalable APIs, secure authentication systems,
+and robust databases**\
+💡 Passionate about **backend development, system design, and data
+streaming into AI models**
 
----
+------------------------------------------------------------------------
 
 ## 🧑‍💻 About Me
-- 🎓 I'm currently studying **Computer Science** with a strong interest in **backend development**.  
-- 🛠️ I enjoy turning real-world problems into maintainable, scalable software solutions.  
-- 📚 Learning never stops—whether it’s **Java Spring Boot**, **Node.js**, or **cloud-native development**.  
-- 🌱 Recently diving deeper into **system design**, **microservices**, and **DevOps practices**.  
 
----
+-   🎓 Bachelor's in **Computer Science** (GPA 3.81/4.0, TOEIC
+    935/990).
+-   🛠️ Skilled in designing and developing **backend systems** with
+    **Spring Boot, REST APIs, and SQL/NoSQL databases**.
+-   🌱 Experienced with **microservice architectures, authentication
+    (JWT, OAuth2), and data streaming with Apache Kafka**.
+-   🤝 Strong in **collaboration, communication, and problem-solving**,
+    with a positive and adaptable mindset.
+
+------------------------------------------------------------------------
 
 ## 🛠️ Skills & Tools
 
 ### 🔹 Languages
-- Java • Python • JavaScript (Node.js) • SQL • Dart (Flutter basics)  
 
-### 🔹 Frameworks & Libraries
-- **Backend:** Spring Boot, Express.js, Flask  
-- **Frontend:** Next.js, React basics, Flutter UI  
-- **ORM/Database:** Hibernate/JPA, Sequelize  
-- **Databases:** MySQL • PostgreSQL • MongoDB 
+-   Java • Python • JavaScript (Node.js) • SQL • Dart
 
-### 🔹 Other Tools & Concepts
-- REST API design • JWT & OAuth2 Security • Git/GitHub  
-- Docker & containerization • CI/CD basics  
-- Object-Oriented Design • Database design & normalization • Design Patterns 
+### 🔹 Backend Technologies
+
+-   Spring Boot • Express.js • RESTful APIs • Apache Kafka
+
+### 🔹 Frontend & Mobile
+
+-   Next.js • React (basic) • Tailwind CSS • Flutter • Android
+    (Java/Kotlin)
+
+### 🔹 Databases
+
+-   MySQL • PostgreSQL • MongoDB • Database Design & Normalization
+
+### 🔹 Development Tools & Security
+
+-   Git/GitHub • Docker • Postman (API Testing) • CI/CD basics
+-   JWT • OAuth2 • Spring Security
+
+### 🔹 Additional Knowledge
+
+-   AI Studio • Basic ML (KNN, Linear Regression) • Pandas • Matplotlib
 
 ---
 
