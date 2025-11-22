@@ -3,7 +3,7 @@
 🚀 **Backend-Oriented Computer Science Graduate**\
 📍 Focused on building **scalable APIs, secure authentication systems,
 and robust databases**\
-💡 Passionate about **backend development, system design, and data
+💡 Passionate about **Java backend development, system design, and data
 streaming into AI models**
 
 ------------------------------------------------------------------------
