@@ -25,7 +25,7 @@ streaming into AI models**
 
 ### 🔹 Languages
 
--   Java • Python • JavaScript (Node.js) • SQL • Dart
+-   Java • Python • JavaScript (Node.js) • SQL • Dart • TypeScript
 
 ### 🔹 Backend Technologies
 
@@ -33,7 +33,7 @@ streaming into AI models**
 
 ### 🔹 Frontend & Mobile
 
--   Next.js • React (basic) • Tailwind CSS • Flutter • Android
+-   Next.js • React (basic) • Tailwind CSS • Flutter • Android • Angular
     (Java/Kotlin)
 
 ### 🔹 Databases
