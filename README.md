@@ -10,7 +10,7 @@ streaming into AI models**
 
 ## 🧑‍💻 About Me
 
--   🎓 Bachelor's in **Computer Science** (GPA 3.81/4.0, TOEIC
+-   🎓 Bachelor's in **Computer Science** (GPA 3.8/4.0, TOEIC
     935/990).
 -   🛠️ Skilled in designing and developing **backend systems** with
     **Spring Boot, REST APIs, and SQL/NoSQL databases**.
